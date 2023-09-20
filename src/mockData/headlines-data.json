@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+      {
+          "source": {
+              "id": "nbc-news",
+              "name": "NBC News"
+          },
+          "author": "Kevin Collier",
+          "title": "Major Xbox plans leaked in emails made public on Microsoft’s FTC case - NBC News",
+          "description": "A huge collection of purported Xbox files related to the Federal Trade Commission’s case against Microsoft have been published online.",
+          "url": "https://www.nbcnews.com/tech/video-games/microsofts-xbox-plans-revealed-emails-tied-ftc-case-rcna105766",
+          "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230919-xbox-mn-0830-1e14e6.jpg",
+          "publishedAt": "2023-09-19T16:10:22Z",
+          "content": "A huge collection of purported Xbox files related to the Federal Trade Commissions case against Microsoft have been published online, spilling some of the company's plans for the gaming console into … [+1498 chars]"
+      },
+      {
+          "source": {
+              "id": "usa-today",
+              "name": "USA Today"
+          },
+          "author": "USA TODAY",
+          "title": "Ukraine war live updates: Biden, Zelenskyy lobby for Ukraine at UN - USA TODAY",
+          "description": null,
+          "url": "https://www.usatoday.com/story/news/world/ukraine/2023/09/19/ukraine-russia-war-live-updates/70898448007/",
+          "urlToImage": null,
+          "publishedAt": "2023-09-19T15:56:15Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "cnn",
+              "name": "CNN"
+          },
+          "author": "Paula Newton, Rhea Mogul",
+          "title": "India expels Canadian diplomat in tit-for-tat move as spat over assassinated Sikh activist deepens - CNN",
+          "description": "Canada’s accusation that India may have been involved in the assassination of a Sikh activist on its soil has triggered a growing spat with Ottawa and New Delhi both expelling senior diplomats, sending relations between the two countries plunging.",
+          "url": "https://www.cnn.com/2023/09/18/americas/canada-hardeep-singh-nijjar-india-intl/index.html",
+          "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230918164944-justin-trudeau-0918.jpg?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2023-09-19T15:50:00Z",
+          "content": "Canadas accusation that India may have been involved in the assassination of a Sikh activist on its soil has triggered a growing spat with Ottawa and New Delhi both expelling senior diplomats, sendin… [+9226 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "[Removed]"
+          },
+          "author": null,
+          "title": "[Removed]",
+          "description": "[Removed]",
+          "url": "https://removed.com",
+          "urlToImage": null,
+          "publishedAt": "1970-01-01T00:00:00Z",
+          "content": "[Removed]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Nick Bromberg",
+          "title": "Mel Tucker 'not surprised' to find out Michigan State intends to fire him with cause - Yahoo Sports",
+          "description": "Tucker's 10-year, $95 million contract included behavioral clauses.",
+          "url": "https://sports.yahoo.com/mel-tucker-not-surprised-to-find-out-michigan-state-intends-to-fire-him-with-cause-153937001.html",
+          "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HlE4fv0la8GOeCpO9pPi2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/548afcd0-5702-11ee-bf7b-aa5b6ab70786",
+          "publishedAt": "2023-09-19T15:39:37Z",
+          "content": "Suspended Michigan State coach Mel Tucker said in a statement Tuesday that he was not surprised the school intends to fire him with cause after he allegedly sexually harassed an anti-sexual assault a… [+3006 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "AnandTech"
+          },
+          "author": "Gavin Bonshor",
+          "title": "Intel Unveils Meteor Lake Architecture: Intel 4 Heralds the Disaggregated Future of Mobile CPUs - AnandTech",
+          "description": null,
+          "url": "https://www.anandtech.com/show/20046/intel-unveils-meteor-lake-architecture-intel-4-heralds-the-disaggregated-future-of-mobile-cpus",
+          "urlToImage": "https://images.anandtech.com/doci/20046/MTL_rendition_white%20jpg_678x452.jpg",
+          "publishedAt": "2023-09-19T15:36:29Z",
+          "content": "During the opening keynote at Intel's Innovation event in San Jose, Chief Executive Officer Pat Gelsinger unveiled a score of details about the upcoming Meteor Lake client platform. Intel's Meteor La… [+8508 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Barron's"
+          },
+          "author": "Karishma Vanjani",
+          "title": "Instacart Prices IPO at $30. The Open Could Be Far Higher. - Barron's",
+          "description": "Instacart stock opened 40% higher Tuesday following its IPO. The delivery firm now has a market value of $13.9 billion.",
+          "url": "https://www.barrons.com/articles/instacart-ipo-stock-price-18556f27",
+          "urlToImage": "https://images.barrons.com/im-94079367/social",
+          "publishedAt": "2023-09-19T15:19:00Z",
+          "content": "After pricing the IPO at $30 a share Monday nightat the upper end of its expected rangethe stock opened at $42, giving the delivery firm a market value of $13.9 billion, based on the companys fully d… [+2437 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "NPR"
+          },
+          "author": "",
+          "title": "As UAW strikes in Detroit, Donald Trump sees an opportunity for 2024 election - NPR",
+          "description": "Former President Donald Trump won't be at the second Republican debate, unsurprisingly. His counter-programming this time involves union autoworkers, engaged in a strike against Detroit automakers.",
+          "url": "https://www.npr.org/2023/09/19/1200339134/trump-to-skip-second-gop-debate-and-head-to-detroit-to-court-autoworkers-instead",
+          "urlToImage": "https://media.npr.org/assets/img/2023/09/19/ap23261784044908_wide-6acd1a668e1fd3999894071c3a2d0863f13c7b4f-s1400-c100.jpg",
+          "publishedAt": "2023-09-19T15:14:39Z",
+          "content": "Former President Donald Trump speaks at an event in Washington on September 15.\r\nJose Luis Magana/AP\r\nFormer President Donald Trump will skip the debate stage in California on Sept. 27. Instead, he w… [+5928 chars]"
+      },
+      {
+          "source": {
+              "id": "the-washington-post",
+              "name": "The Washington Post"
+          },
+          "author": "Jennifer Hassan",
+          "title": "Lahaina's banyan tree damaged by Maui wildfires shows new life - The Washington Post - The Washington Post",
+          "description": "The 150-year-old tree was damaged in the August wildfires that swept Maui, killing at least 97 people. To locals, the sprawling banyan is “a symbol of hope.”",
+          "url": "https://www.washingtonpost.com/nation/2023/09/19/lahaina-banyan-tree-new-leaves-maui-wildfires/",
+          "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P6QZ5TXPWHWEL76IIM2WE56NHI.jpg&w=1440",
+          "publishedAt": "2023-09-19T15:06:16Z",
+          "content": "Comment on this story\r\nComment\r\nLahainas giant banyan tree, scorched by the flames of Mauis deadly wildfires, is showing small signs of recovery: sprouting a batch of fresh green leaves.\r\nThe 150-yea… [+3384 chars]"
+      },
+      {
+          "source": {
+              "id": "reuters",
+              "name": "Reuters"
+          },
+          "author": "Reuters",
+          "title": "Azerbaijan launches military action in Karabakh 'to disarm' Armenians - Reuters",
+          "description": "Azerbaijan launched military action in the Nagorno-Karabakh region, a step that could presage a new war in the volatile area but which Baku said was necessary to restore constitutional order and drive out Armenian military formations.",
+          "url": "https://www.reuters.com/world/azerbaijan-says-six-its-citizens-were-killed-by-land-mines-karabakh-2023-09-19/",
+          "urlToImage": "https://www.reuters.com/resizer/gNn3UHAI9EPfW2fsZ6t3mz6rBZg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LUYKLTRDXNJ7ZDJZVBOBZRRAGI.jpg",
+          "publishedAt": "2023-09-19T15:02:00Z",
+          "content": "BAKU, Sept 19 (Reuters) - Azerbaijan launched military action in the Nagorno-Karabakh region, a step that could presage a new war in the volatile area but which Baku said was necessary to restore con… [+5474 chars]"
+      },
+      {
+          "source": {
+              "id": "the-washington-post",
+              "name": "The Washington Post"
+          },
+          "author": "Jennifer Hassan",
+          "title": "YouTube bars Russell Brand from monetizing channel amid sex assault claims - The Washington Post",
+          "description": "The British actor and comedian has more than 6.6 million subscribers on YouTube. Brand has denied several women’s accusations of rape, sexual assault and abuse.",
+          "url": "https://www.washingtonpost.com/style/2023/09/19/russell-brand-suspended-youtube-rape-sexual-assault/",
+          "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SCAOHETAKEQL3YXJS5RHXVAPDE.jpg&w=1440",
+          "publishedAt": "2023-09-19T14:30:03Z",
+          "content": "Comment on this story\r\nComment\r\nLONDON YouTube suspended the monetization of Russell Brands channel on Tuesday, saying he had violated its creator responsibility policy, just days after the British a… [+4244 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+          },
+          "author": "Stephen Grey, Dan Peleschuk",
+          "title": "Graft accusations dog top Zelenskiy aides - Yahoo News",
+          "description": "VIENNA/KYIV (Reuters) -In his years as the chief executive of one of Ukraine's biggest construction firms, Oleh Maiboroda kept rolls of dollar bills in a...",
+          "url": "https://news.yahoo.com/special-report-graft-accusations-dog-101007172.html",
+          "urlToImage": "https://media.zenfs.com/en/reuters.com/d866c713bfd996202f001596c02959ba",
+          "publishedAt": "2023-09-19T14:16:28Z",
+          "content": "By Stephen Grey, Dan Peleschuk\r\nVIENNA/KYIV (Reuters) -In his years as the chief executive of one of Ukraine's biggest construction firms, Oleh Maiboroda kept rolls of dollar bills in a safe behind h… [+18563 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "YouTube"
+          },
+          "author": null,
+          "title": "Highly mutated COVID-19 variant found in at least 10 states - CBS News",
+          "description": null,
+          "url": "https://www.youtube.com/watch?v=AaQ8Oof_pHw",
+          "urlToImage": null,
+          "publishedAt": "2023-09-19T14:01:18Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "nfl-news",
+              "name": "NFL News"
+          },
+          "author": null,
+          "title": "NFL Power Rankings, Week 3: New Orleans Saints crack top 10, while Cincinnati Bengals keep sliding - NFL.com",
+          "description": "Two weeks into the 2023 NFL season, Eric Edholm's Power Rankings remain fluid, especially in the fat middle. The 2-0 New Orleans Saints crack the top 10, while the 0-2 Cincinnati Bengals continue to fall. Check out the full rundown, 1 to 32.",
+          "url": "https://www.nfl.com/news/nfl-power-rankings-week-3-2023-nfl-season",
+          "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/kvfh3l82wt0wvzgf23j9",
+          "publishedAt": "2023-09-19T13:48:00Z",
+          "content": "Week 2 was a weird one, marked by two incredible road comebacks (Commanders down 18, Giants down 21), two teams winning in overtime to avoid 0-2 starts (well done, Seahawks and Titans), two Super Bow… [+20438 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNBC"
+          },
+          "author": "Kevin Breuninger",
+          "title": "Pence echoes Trump, links UAW strikes to Biden EV push: 'Good for Beijing, bad for Detroit' - CNBC",
+          "description": "Former Vice President Mike Pence spoke on CNBC about the UAW strikes. His former boss Donald Trump is the Republican primary front-runner.",
+          "url": "https://www.cnbc.com/2023/09/19/pence-echoes-trump-on-uaw-strikes-to-biden-ev-push-china.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107302974-1695132078815-SG-Pence-02.jpg?v=1695132402&w=1920&h=1080",
+          "publishedAt": "2023-09-19T13:45:22Z",
+          "content": "Former Vice President Mike Pence argued Tuesday that the Biden administration's push toward electric vehicles was to blame for the historic United Auto Workers strikes underway at the Big Three Detro… [+2818 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "NASA"
+          },
+          "author": null,
+          "title": "NASA Moon Camera Mosaic Sheds Light on Lunar South Pole - NASA",
+          "description": "A new mosaic of the Shackleton Crater showcases the power of two lunar orbiting cameras working together to reveal unprecedented detail of the lunar South Pole region.",
+          "url": "https://www.nasa.gov/feature/nasa-moon-camera-mosaic-sheds-light-on-lunar-south-pole",
+          "urlToImage": "http://www.nasa.gov/sites/default/files/thumbnails/image/shadowcam_shackleton_crater_mosaic_072823.jpeg",
+          "publishedAt": "2023-09-19T13:44:18Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": "cbs-news",
+              "name": "CBS News"
+          },
+          "author": "Kerry Breen",
+          "title": "Video shows NASA spacecraft flying through \"one of the most powerful\" sun explosions ever recorded - CBS News",
+          "description": "NASA called the Parker Solar Probe's flight \"not only an impressive feat of engineering, but a huge boon for the scientific community.\"",
+          "url": "https://www.cbsnews.com/news/video-nasa-parker-solar-probe-flies-sun-explosion-coronal-mass-ejection/",
+          "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/19/c5f9c3a6-6f04-4029-9bcf-9c5a247561b2/thumbnail/1200x630/a4e4f2ef189fadafc6a6cd82832764e7/screen-shot-2023-09-19-at-9-05-50-am.png?v=28dc54ac03e5a25eccd8b6b5a44c3465",
+          "publishedAt": "2023-09-19T13:27:00Z",
+          "content": "A NASA solar probe flew \"gracefully\" through a powerful eruption from the sun, helping scientists prove a decades-old theory, the agency announced this week.  The fortified spacecraft not only surviv… [+2461 chars]"
+      },
+      {
+          "source": {
+              "id": "the-wall-street-journal",
+              "name": "The Wall Street Journal"
+          },
+          "author": "Alyssa Lukpat",
+          "title": "Disney to Invest $60 Billion in Theme Parks, Cruises Over Next Decade - The Wall Street Journal",
+          "description": "Company says it would expand its parks and cruise line capacities",
+          "url": "https://www.wsj.com/business/media/disney-to-invest-60-billion-in-theme-parks-cruises-over-next-decade-6fc87426",
+          "urlToImage": "https://images.wsj.net/im-854209/social",
+          "publishedAt": "2023-09-19T13:23:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CNET"
+          },
+          "author": null,
+          "title": "iOS 17 Cheat Sheet: What to Know About the New iPhone Update - CNET",
+          "description": "What's in the update, how to use the new features and more about iOS 17.",
+          "url": "https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-what-to-know-about-the-new-iphone-update/",
+          "urlToImage": "https://www.cnet.com/a/img/resize/513d1bc9287e19aaa4b6883262b1b58683ddf2d2/hub/2023/06/09/a2463312-083c-4ef8-bacf-fc28e37f26ad/ios-17.png?auto=webp&fit=crop&height=675&width=1200",
+          "publishedAt": "2023-09-19T13:21:00Z",
+          "content": "Apple's iOS 17 was released on Monday, less than a week after the company held its \"Wonderlust\" event, in which the tech giant announced the new iPhone 15 lineup, the Apple Watch Series 9 and the App… [+324 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "CBS Sports"
+          },
+          "author": "",
+          "title": "Steelers' Minkah Fitzpatrick released from hospital after suffering chest injury vs. Browns, per report - CBS Sports",
+          "description": "Pittsburgh's All-Pro safety left the game for good in the third quarter",
+          "url": "https://www.cbssports.com/nfl/news/steelers-minkah-fitzpatrick-released-from-hospital-after-suffering-chest-injury-vs-browns-per-report/",
+          "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/19/6745df6a-0a3d-4b8b-99b5-1c123d780b87/thumbnail/1200x675/21e8d9a497b216b7708f8d387c5d0d55/minkah-g.jpg",
+          "publishedAt": "2023-09-19T13:07:00Z",
+          "content": "The Pittsburgh Steelers can take a sigh of relief as it relates to one of their key pieces on defense. After leaving Monday's eventual 26-22 win over the Cleveland Browns due to a chest injury that s… [+1602 chars]"
+      }
+  ]
+}
