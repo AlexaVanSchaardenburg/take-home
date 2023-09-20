@@ -1,15 +1,15 @@
-import '../App/App.css';
+import '../Home/Home.css';
 import Header from '../Header/Header'
-// import headlinesData from '../mockData/headlines-data.json'
+import Card from '../Card/Card'
 
-function App() {
+function Home({ data }) {
 
   return (
-    <div className="App">
+    <div className="Home">
       <Header />
-      <p>map over articles here</p>
+      {data.map(article => <Card data={article} />)}
     </div>
   );
 }
 
-export default App;
+export default Home;
