@@ -2,13 +2,18 @@ import '../Home/Home.css';
 import Header from '../Header/Header'
 import Card from '../Card/Card'
 
-function Home({ convertTimeFormat, data }) {
+function Home({ convertTimeFormat, data, setCategory, category }) {
+
+  const handleChange = (e) => {
+    setCategory(e.target.value)
+    console.log(category)
+  }
 
   return (
     <div className="Home">
       <Header />
-      <select name="categories" className="drop-down" id="categories-dropdown">
-        <option value="business">Business</option>
+      <select name="categories" className="drop-down" id="categories-dropdown" value="all" onChange={handleChange}>
+        <option value="all">Top Headlines</option>
         <option value="business">Business</option>
         <option value="entertainment">Entertainment</option>
         <option value="general">General</option>

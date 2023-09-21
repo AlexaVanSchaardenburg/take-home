@@ -19,9 +19,12 @@ function App() {
   //     .catch(err => setError(err))
   // }, [])
 
-  //use a useEffect hook to get all the headlines for the us on page load
-    //set headlines data to state
-    //State is passed to home and articles
+  useEffect(() => {
+    fetch(`https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=6fd0aa3c07fd4afab7c7258b44ec251e`)
+      .then(res => res.json())
+      .then(res => setArticlesData(res.articles))
+      .catch(err => setError(err))
+  }, [category])
 
     const convertTimeFormat = (inputTime) => {
       const inputDate = new Date(inputTime);
@@ -55,7 +58,7 @@ function App() {
     <>
     {!articleData ? <p>loading...</p> : <div className="App">
     <Routes>
-      <Route path='/' element={<Home convertTimeFormat={convertTimeFormat} data={articleData} setCategory={setCategory}/>} />
+      <Route path='/' element={<Home convertTimeFormat={convertTimeFormat} data={articleData} setCategory={setCategory} category={category} />} />
       <Route path='/article/:title' element={<Article convertTimeFormat={convertTimeFormat} data={articleData}/>} />
       <Route path="*" element={<Error />} />
     </Routes>
