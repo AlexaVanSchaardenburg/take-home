@@ -2,7 +2,7 @@ import '../Home/Home.css';
 import Header from '../Header/Header'
 import Card from '../Card/Card'
 
-function Home({ data }) {
+function Home({ convertTimeFormat, data }) {
 
   return (
     <div className="Home">
@@ -18,7 +18,7 @@ function Home({ data }) {
         <option value="technology">Technology</option>
       </select>
       <h1>Today's Headlines</h1>
-      {data.map(article => <Card data={article} />)}
+      {data.map(article => <Card convertTimeFormat={convertTimeFormat} data={article} />)}
     </div>
   );
 }
