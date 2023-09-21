@@ -2,10 +2,22 @@ import '../App/App.css';
 import Home from '../Home/Home'
 import Article from '../Article/Article'
 import Error from '../Error/Error'
-import headlinesData from '../mockData/headlines-data.json'
-import { Routes, Route } from 'react-router-dom'
+// import articleData from '../mockData/headlines-data.json'
+import { Routes, Route } from 'react-router-dom';
+import { useEffect, useState} from 'react'
 
 function App() {
+
+  const [articleData, setArticlesData] = useState(null)
+  const [error, setError] = useState(null)
+  const [category, setCategory] = useState(null)
+
+  // useEffect(() => {
+  //   fetch('https://newsapi.org/v2/top-headlines?country=us&apiKey=6fd0aa3c07fd4afab7c7258b44ec251e')
+  //     .then(res => res.json())
+  //     .then(res => setArticlesData(res.articles))
+  //     .catch(err => setError(err))
+  // }, [])
 
   //use a useEffect hook to get all the headlines for the us on page load
     //set headlines data to state
@@ -35,14 +47,20 @@ function App() {
       return formattedTime;
     }
 
+    const handleError = () => {
+      return <p>There was an error on our end, please check back later</p>
+    }
+
   return (
-    <div className="App">
-      <Routes>
-        <Route path='/' element={<Home convertTimeFormat={convertTimeFormat} data={headlinesData.articles}/>} />
-        <Route path='/article/:title' element={<Article convertTimeFormat={convertTimeFormat} data={headlinesData.articles}/>} />
-        <Route path="*" element={<Error />} />
-      </Routes>
-    </div>
+    <>
+    {!articleData ? <p>loading...</p> : <div className="App">
+    <Routes>
+      <Route path='/' element={<Home convertTimeFormat={convertTimeFormat} data={articleData} setCategory={setCategory}/>} />
+      <Route path='/article/:title' element={<Article convertTimeFormat={convertTimeFormat} data={articleData}/>} />
+      <Route path="*" element={<Error />} />
+    </Routes>
+  </div>}
+  </>
   );
 }
 
