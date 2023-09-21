@@ -7,3 +7,23 @@
 .Home h1{
   color: #D09137
 }
+
+/* .drop-down{
+  font-size: 1.3em;
+  color: #FFF1DA;
+  border: none;
+  background:#D09137;
+  padding: 1em;
+  border-radius: 1em
+} */
+
+.drop-down{
+  width: 80%;
+  font-size: 1.2em;
+  border: 10px solid #D09137;
+  color: #D09137;
+  /* border: none; */
+  background:#FFF1DA;
+  padding: 0.5em;
+  /* border-radius: 1em */
+}

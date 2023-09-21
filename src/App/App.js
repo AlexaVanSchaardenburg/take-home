@@ -12,18 +12,25 @@ function App() {
   const [error, setError] = useState(null)
   const [category, setCategory] = useState(null)
 
-  // useEffect(() => {
-  //   fetch('https://newsapi.org/v2/top-headlines?country=us&apiKey=6fd0aa3c07fd4afab7c7258b44ec251e')
-  //     .then(res => res.json())
-  //     .then(res => setArticlesData(res.articles))
-  //     .catch(err => setError(err))
-  // }, [])
-
   useEffect(() => {
-    fetch(`https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=6fd0aa3c07fd4afab7c7258b44ec251e`)
+    fetch('https://newsapi.org/v2/top-headlines?country=us&apiKey=6fd0aa3c07fd4afab7c7258b44ec251e')
       .then(res => res.json())
       .then(res => setArticlesData(res.articles))
       .catch(err => setError(err))
+  }, [])
+
+  useEffect(() => {
+    if(category === "Top Headlines"){
+      fetch('https://newsapi.org/v2/top-headlines?country=us&apiKey=6fd0aa3c07fd4afab7c7258b44ec251e')
+      .then(res => res.json())
+      .then(res => setArticlesData(res.articles))
+      .catch(err => setError(err))
+    } else {
+      fetch(`https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=6fd0aa3c07fd4afab7c7258b44ec251e`)
+      .then(res => res.json())
+      .then(res => setArticlesData(res.articles))
+      .catch(err => setError(err))
+    }
   }, [category])
 
     const convertTimeFormat = (inputTime) => {
