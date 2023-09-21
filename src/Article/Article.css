@@ -1,0 +1,30 @@
+.Article{
+  color: #D09137;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1em;
+}
+
+.Article h1 {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.article-img{
+  width: 100%;
+}
+
+.info{
+  width: 100%;
+  text-align: left;
+}
+
+.article-button{
+  text-decoration: none;
+  background: #D09137;
+  color: #FFF1DA;
+  padding: 1em;
+  border-radius: 1em;
+  margin: 1em;
+}

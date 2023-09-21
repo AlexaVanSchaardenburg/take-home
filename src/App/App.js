@@ -1,6 +1,7 @@
 import '../App/App.css';
 import Home from '../Home/Home'
 import Article from '../Article/Article'
+import Error from '../Error/Error'
 import headlinesData from '../mockData/headlines-data.json'
 import { Routes, Route } from 'react-router-dom'
 
@@ -39,6 +40,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Home convertTimeFormat={convertTimeFormat} data={headlinesData.articles}/>} />
         <Route path='/article/:title' element={<Article convertTimeFormat={convertTimeFormat} data={headlinesData.articles}/>} />
+        <Route path="*" element={<Error />} />
       </Routes>
     </div>
   );
