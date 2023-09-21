@@ -21,6 +21,7 @@ describe('Home View', () => {
     cy.get('.Card > .title-and-img > .card-date').last().should('have.text', '09-19-2023 at 7:23am')
     cy.get('.Card > .card-description').last().should('have.text', 'Company says it would expand its parks and cruise line capacities')
   })
+  
   it('should display articles by selected category', () => {
     cy.intercept('GET', 'https://newsapi.org/v2/top-headlines?country=us&apiKey=6fd0aa3c07fd4afab7c7258b44ec251e', {
       statusCode: 200,
