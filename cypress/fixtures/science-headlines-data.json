@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 67,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Teddy Grant",
+            "title": "Asteroid that passes nearby could hit Earth in the future, NASA says - ABC News",
+            "description": "There is a 1 in 2,700 chance the Bennu asteroid could hit Earth by 2182.",
+            "url": "https://abcnews.go.com/US/asteroid-passes-nearby-hit-earth-future-nasa/story?id=103322457",
+            "urlToImage": "https://i.abcnewsfe.com/a/c0132c95-47a4-4c72-b2bc-6eeba593718d/asteroid-bennu-1-ht-gmh-230905_1693946036603_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2023-09-20T20:33:39Z",
+            "content": "An asteroid NASA's been tracking for nearly 25 years could impact Earth in the future, a new report reveals.\r\nFirst discovered in 1999, Bennu, the near-Earth asteroid, could possibly drift into the p… [+1563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Creating New States of Matter – Researchers Invent Two New Types of Superconductivity - SciTechDaily",
+            "description": "Electronics of the future hinge on the discovery of unique materials. Sometimes, however, the naturally occurring topology of atoms makes it difficult for new physical effects to be created. To address this, scientists from the University of Zurich have now s…",
+            "url": "https://scitechdaily.com/creating-new-states-of-matter-researchers-invent-two-new-types-of-superconductivity/",
+            "urlToImage": "https://scitechdaily.com/images/Superconductor-Superconduction-Abstract-Physics.jpg",
+            "publishedAt": "2023-09-20T20:14:38Z",
+            "content": "ByUniversity of ZurichSeptember 20, 2023\r\nResearchers have successfully created new types of superconductors by arranging atoms one at a time, potentially leading to the development of innovative mat… [+4175 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheInertia.com"
+            },
+            "author": "Cooper Gegan",
+            "title": "Shade May Be Latest Weapon In Fight Against Coral Bleaching - TheInertia.com",
+            "description": "",
+            "url": "https://www.theinertia.com/environment/shade-may-be-latest-weapon-in-fight-against-coral-bleaching/",
+            "urlToImage": "http://www.theinertia.com/wp-content/uploads/2023/09/Photo-Manny-Moreno-Unsplash.jpg",
+            "publishedAt": "2023-09-20T20:01:55Z",
+            "content": "Photo: Manny Moreno // Unsplash\r\nCoral bleaching has become an epidemic, as reefs around the world are negatively affected by rising water temperatures. Florida in particular has received a fair shar… [+2669 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "NASA set to deliver biggest asteroid sample yet: What you need to know - Al Jazeera English",
+            "description": "OSIRIS-REx spacecraft is expected to drop 250g of pebbles and dust from asteroid Bennu after seven-year quest.",
+            "url": "https://www.aljazeera.com/news/2023/9/20/nasa-set-to-deliver-biggest-asteroid-sample-yet-what-you-need-to-know",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/AP23262586475819-1695233922.jpg?resize=1200%2C675",
+            "publishedAt": "2023-09-20T19:49:54Z",
+            "content": "Planet Earth is about to receive a special delivery the biggest sample yet from an asteroid.\r\nA United States space agency (NASA) spacecraft will fly by Earth on Sunday and drop off what is expected … [+5622 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "Orbiting Lunar Cameras Weave Stunning Mosaic of Shadowed Crater - Gizmodo",
+            "description": "The new image reveals the Shackleton Crater in greater detail than previously possible, giving us a closer look at the lunar south pole.",
+            "url": "https://gizmodo.com/orbiting-lunar-cameras-mosaic-shadowed-moon-crater-1850856387",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bed1c55ddbeb4bcf5a82e1893cb8886e.jpg",
+            "publishedAt": "2023-09-20T19:02:58Z",
+            "content": "NASA released a new mosaic of an impact crater that perpetually lies in the shadows of the lunar south pole. By combining the light sensitivity of NASAs ShadowCam with the Lunar Reconnaissance Orbite… [+2108 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Rahul Rao",
+            "title": "NASA's Parker Solar Probe flies through major coronal mass ejection — and survives to tell the tale - Space.com",
+            "description": "This 1st CME fly-through might have also validated a 2-decade-old theory about our host star.",
+            "url": "https://www.space.com/parker-cme-flies-through-displaces-dust-solar-physics",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/HckTwmNHAgKw4D6PoDeVBH-1200-80.gif",
+            "publishedAt": "2023-09-20T19:00:01Z",
+            "content": "Coronal mass ejections (CMEs), or magnetic bursts of plasma from the sun’s corona, are fearsome indeed. They can drive high-energy space storms for millions of miles and endanger satellites\r\n, astron… [+2397 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Dhananjay Khadilkar",
+            "title": "French drillers may have stumbled upon a mammoth hydrogen deposit - Ars Technica",
+            "description": "A drill site in Lorraine shows rising levels of hydrogen mixed in with methane.",
+            "url": "https://arstechnica.com/science/2023/09/french-drillers-may-have-stumbled-upon-a-mammoth-hydrogen-deposit/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/GettyImages-1302303914-760x380.jpg",
+            "publishedAt": "2023-09-20T18:30:41Z",
+            "content": "Enlarge/ The equipment needed for drilling a borehole of this type.\r\n60 with \r\nOn the outskirts of the small town of Folschviller in eastern France stand three nondescript sheds. One of these tempora… [+4927 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Samantha Mathewson",
+            "title": "New Hubble image reveals intergalactic bridge between two merging realms - Space.com",
+            "description": "One of the galaxies is a Seyfert galaxy and home to an active galactic nucleus.",
+            "url": "https://www.space.com/galaxy-merger-arp-107-hubble-photo-bridge-galactic-merger",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/C8LjzfHKx7Lja9Bk8RxaxV-1200-80.jpg",
+            "publishedAt": "2023-09-20T17:00:01Z",
+            "content": "A faint \"bridge\" of gas connects two colliding galaxies in a new photo from the Hubble Space Telescope. \r\nThe Arp 107 system includes a pair of galaxies that are in the process of merging. Located ab… [+2183 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NASA"
+            },
+            "author": null,
+            "title": "NASA Team Simulates a Glimpse of Our Galaxy in Gravitational Waves - NASA",
+            "description": "Astronomers using simulated data have produced a glimpse of the sky as it would appear in gravitational waves, cosmic ripples in space-time generated by orbiting objects.",
+            "url": "https://www.nasa.gov/feature/goddard/2023/nasa-team-simulates-a-glimpse-of-our-galaxy-in-gravitational-waves",
+            "urlToImage": "http://www.nasa.gov/sites/default/files/thumbnails/image/lisa_simulated_allsky_still.jpg",
+            "publishedAt": "2023-09-20T16:36:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Sharmila Kuthunur",
+            "title": "Water ice on the moon may be key for future space missions. But is there enough? - Space.com",
+            "description": "\"Previous estimates for the expected amount of ice in cold traps have to be revised downward dramatically.\"",
+            "url": "https://www.space.com/future-moon-missions-find-less-water-than-expected-study",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7V3q6PSbEjGsYWzaFRVrtg-1200-80.jpg",
+            "publishedAt": "2023-09-20T16:30:01Z",
+            "content": "Frigid areas on the moon where the sun never shines are younger than the craters they reside in and, according to new research, likely host less water ice than previously thought.\r\nThese areas, known… [+3071 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Robert Lea",
+            "title": "Comet Nishimura photobombs NASA spacecraft after its close encounter with the sun (photos) - Space.com",
+            "description": "Images produced by NASA's STEREO spacecraft seem to show the comet is holding it together after its brush with the sun on Sunday.",
+            "url": "https://www.space.com/comet-nishimura-photobombs-sun-spacecraft",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/bZh77B3xD9hkoNc4N3gQfF-1200-80.jpg",
+            "publishedAt": "2023-09-20T16:20:12Z",
+            "content": "The recently discovered Comet Nishimura has surprised scientists by photobombing a NASA spacecraft as it took images of the sun.\r\nComet Nishimura, also known as C/2023 P1, which appears to have recen… [+4643 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "SpaceX breaks another booster reuse record, but did anyone see it? - Ars Technica",
+            "description": "SpaceX has continued its trend toward a minimalist broadcast approach.",
+            "url": "https://arstechnica.com/space/2023/09/spacex-breaks-another-booster-reuse-record-but-did-anyone-see-it/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/starlink6-17-760x380.jpg",
+            "publishedAt": "2023-09-20T16:19:55Z",
+            "content": "Enlarge/ Starlink 6-17 launches from Florida on Tuesday night.\r\n119 with \r\nSpaceX launched its 67th rocket of the year on Tuesday night, a staggering total for the company and its workhorse booster, … [+3446 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Molybdenene—the 'metallic' relative of graphene - Phys.org",
+            "description": "Two-dimensional materials like graphene show fascinating properties such as superconductivity, extraordinary strength and exotic quantum phenomena. Scientists at Forschungszentrum Jülich, together with partners from the Indian Institute of Technology in Patna…",
+            "url": "https://phys.org/news/2023-09-molybdenenethe-metallic-graphene.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/molybdenene--the-quotm.jpg",
+            "publishedAt": "2023-09-20T16:13:02Z",
+            "content": "Two-dimensional materials like graphene show fascinating properties such as superconductivity, extraordinary strength and exotic quantum phenomena. Scientists at Forschungszentrum Jülich, together wi… [+3736 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "James Webb Space Telescope and ALMA capture the core of the most distant galaxy protocluster - Phys.org",
+            "description": "The study of how individual stars are born and die in galaxies, how new stars are born from remnants of old stars, and how galaxies themselves grow are important themes in astronomy, as they provide insight into our roots in the universe. Galaxy clusters, one…",
+            "url": "https://phys.org/news/2023-09-james-webb-space-telescope-alma.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/the-strongest-tag-team.jpg",
+            "publishedAt": "2023-09-20T15:41:03Z",
+            "content": "The study of how individual stars are born and die in galaxies, how new stars are born from remnants of old stars, and how galaxies themselves grow are important themes in astronomy, as they provide … [+6886 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quanta Magazine"
+            },
+            "author": null,
+            "title": "The Experimental Cosmologist Hunting for the First Sunrise - Quanta Magazine",
+            "description": "To catch even a whiff of the universe’s earliest epochs — an age of darkness, and one of new light — Cynthia Chiang builds her own equipment. Then she deploys it at the ends of the Earth.",
+            "url": "https://www.quantamagazine.org/the-experimental-cosmologist-hunting-for-the-first-sunrise-20230920/",
+            "urlToImage": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/09/CynthiaChiang-byAllenMcEachern-Social.webp",
+            "publishedAt": "2023-09-20T15:19:18Z",
+            "content": "Cynthia Chiang always wanted to work with her hands. Although it may sound counterintuitive, its what led her to the fairly abstract field of observational cosmology: studying the cosmoss origin and … [+2855 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Justin Jackson",
+            "title": "Common statistical principles of scaling found in nature now seen in human cells - Phys.org",
+            "description": "Research led by the Department of Earth and Planetary Sciences, McGill University, Canada, has found that human cells seem to follow a homeostasis pattern of cell size and count across the entire organism.",
+            "url": "https://phys.org/news/2023-09-common-statistical-principles-scaling-nature.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/common-statistical-pri-1.jpg",
+            "publishedAt": "2023-09-20T15:10:01Z",
+            "content": "Human cell size and count are nearly inversely related. Data and regression are shown for a 70-kg reference male, though very similar patterns are found for female and child. The total number of cell… [+5611 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Spider silk is spun by silkworms for the first time, offering a green alternative to synthetic fibers - Phys.org",
+            "description": "Scientists in China have synthesized spider silk from genetically modified silkworms, producing fibers six times tougher than the Kevlar used in bulletproof vests.",
+            "url": "https://phys.org/news/2023-09-spider-silk-spun-silkworms-green.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/spider-silk-is-spun-by.jpg",
+            "publishedAt": "2023-09-20T15:00:01Z",
+            "content": "Scientists in China have synthesized spider silk from genetically modified silkworms, producing fibers six times tougher than the Kevlar used in bulletproof vests.\r\nThe study, published September 20 … [+4216 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jeanne Timmons",
+            "title": "Fish’s big mistake preserved an unusual fossil for us - Ars Technica",
+            "description": "A lethal final meal preserved the only intact ammonite found in a fossil bed.",
+            "url": "https://arstechnica.com/science/2023/09/fishs-big-mistake-preserved-an-unusual-fossil-for-us/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/fish-fossil-760x380.jpg",
+            "publishedAt": "2023-09-20T14:57:45Z",
+            "content": "Enlarge/ The fish in question, with the ammonite located just below its spine.\r\n9 with \r\nSome extinct species left copious fossil remnants of their existence. Ammonitesan extinct type of cephalopodar… [+4119 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Robert Lea",
+            "title": "Supermassive black holes eat faster than expected, models suggest - Space.com",
+            "description": "The black holes at the heart of galaxies have an unexpected delivery service that helps them feed over months rather than hundreds of years.",
+            "url": "https://www.space.com/supermassive-black-holes-more-gluttonous-than-scientists-expected",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QeKoLXEtXBqyAX8gubXPXR-1200-80.jpg",
+            "publishedAt": "2023-09-20T14:00:01Z",
+            "content": "Supermassive black holes may have a completely unexpected cosmic delivery service supplying them with gas and dust to feast on. This could result in the cosmic titans feeding much faster than scienti… [+8191 chars]"
+        }
+    ]
+}
