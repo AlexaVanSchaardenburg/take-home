@@ -1,7 +1,7 @@
 # The DailyBuzz - Simple News Web Appliation
 
 ## Summary
-This simple news web application was built as a take-home tech challenge simulation during the final quarter of my time at turing School of Software and Design. From assignment to completion thsi application took lass than 8 hours to complete. The application allows a user to view US headlines for the day, sort the headlines by category, and view the article.
+This simple news web application was built as a take-home tech challenge simulation during the final quarter of my time at turing School of Software and Design. From assignment to completion this application took lass than 8 hours to complete. The application allows a user to view US headlines for the day, sort the headlines by category, and view the article.
 
 The goal of building this application was to demonstrate good organizational skills, effective use of a project board, coding best pratcies, and effieceny and priority of MVP under a tight deadline. 
 
@@ -12,6 +12,11 @@ Features
 - Fully repsonsive design across small, medium, and large screens
 - User can sort articles by category
 - User can click on an article to get more info about it
+
+## Tech Stack
+- React.js
+- CSS
+- Cypress
 
 ## Viewing Instructions
 
