@@ -9,7 +9,9 @@ The goal of building this application was to demonstrate good organizational ski
 ![DailyBuzz_gif](https://github.com/AlexaVanSchaardenburg/take-home/assets/125763236/924dfb2d-11cd-4b65-92fc-c05f4500537f)
 
 Features
-
+- Fully repsonsive design across small, medium, and large screens
+- User can sort articles by category
+- User can click on an article to get more info about it
 
 ## Viewing Instructions
 
